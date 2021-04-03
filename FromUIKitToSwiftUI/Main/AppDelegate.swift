@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  FromUIKitToSwiftUI
-//
-//  Created by Casa on 3/4/21.
-//
-
 import UIKit
 
 @main
